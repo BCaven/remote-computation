@@ -8,3 +8,10 @@ Local development, remote execution
     make setup-project
 ```
 
+# dependencies
+
+Local client:
+    ```sshpass``` is not required but is highly recommended to speed up the ssh process
+
+Remote server:
+
