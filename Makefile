@@ -3,7 +3,7 @@ all:
 	@echo this is empty
 
 setup-project:
-	./src/create-folder-structure.sh
+	./src/make-folder-structure.sh
 
 setup-remote:
 	@echo this is empty
