@@ -1,2 +1,2 @@
-waiting-queue/
 completed-queue/
+default-project/
