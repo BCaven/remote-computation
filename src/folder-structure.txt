@@ -1,4 +1,2 @@
-src/
-remote-src/
 waiting-queue/
 completed-queue/

@@ -3,7 +3,7 @@
 
 
 
-for dir in `cat folder-structure.txt`;
+for dir in `cat src/folder-structure.txt`;
 do
     if [ ! -d $dir ]; then
         mkdir $dir
